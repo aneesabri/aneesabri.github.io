@@ -2,27 +2,12 @@
 
 Im an engineering student pursuing btech in Applied electronics and instrumentation at MESCE.
 
-###coming soon
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+###Contact
+ mob:9539538225
+ email:aneesabri@gmail.com
+ 
+####About github
+haha, this is really interesting, and yeah..more stuffs coming soon
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

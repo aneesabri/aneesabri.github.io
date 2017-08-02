@@ -6,7 +6,7 @@ email:aneesabri@gmail.com
 
 Mob:9539538225
 
- ## About github
-haha, this is really interesting, and yeah..more stuffs coming soon.
+ ## FABLAB PROGRESS
+just completed a day,and it was really cool.
 
 

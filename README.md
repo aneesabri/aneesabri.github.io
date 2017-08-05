@@ -1,16 +1,14 @@
-## About Me
+hello world,Im Anees Sabri,a Btech student at MESCE,Kuttipuram.I will be documenting my  FAB project here.
 
-Im an engineering student pursuing btech in Applied electronics and instrumentation at MESCE.
-## Contact
-email:aneesabri@gmail.com
+### Who am I?
+Im an engineering student,doing Btech in Electronics and Instrumentation at MESCE kuttipuram.Im a DIY enthusiast and im really in learning something new.
 
-Mob:9539538225
 
-## FABLAB PROGRESS
+### DAY 1
 
-just completed a day,and it was really cool.
+Well,today we had an introductory talk on FABLAB by our trainer Mohammed Jaseel P.
 
-![img_20170802_164702](https://user-images.githubusercontent.com/30663146/28888472-88abe664-7775-11e7-9cd9-bbd7e3865283.jpg)
+
 
 
 

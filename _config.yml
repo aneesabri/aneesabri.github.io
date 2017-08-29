@@ -1,6 +1,4 @@
 theme: jekyll-theme-slate
 title:  My FAB project
 description: at MESCE FAB LAB
-defaults:
--scope:
-path:"fab/intro.md"
+

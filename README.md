@@ -1,7 +1,7 @@
 hello world,Im Anees Sabri,a Btech student at MESCE,Kuttipuram.I will be documenting my  FAB project here.
 
 ### Who am I?
-<img src="aneesabri.github.io/IMG_20170729_125428-min.jpg" height="210" width="190"
+<img src="aneesabri.github.io/IMG_20170729_125428-min.jpg" height="200" width="160"
 align="right">Im an engineering student,doing Btech in Electronics and Instrumentation at MESCE kuttipuram.Im a DIY enthusiast and im really interested in learning something new.
 
 

@@ -13,6 +13,9 @@ A fab lab (fabrication laboratory) is a small-scale workshop offering (personal)
  - day 2
  - day 3
  - day 4 
+ - day 5
+ - day 6
+ - day 7
 
 
 
